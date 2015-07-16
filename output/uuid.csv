@@ -1,0 +1,305 @@
+location,uuid,status,exception,statusCode,responseTxt
+/home/joel/xml_cdr/a837f80b-7496-4245-9379-8ec9c491f1ba.cdr.xml,a837f80b-7496-4245-9379-8ec9c491f1ba,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/b22d5f15-df2e-4c10-b20b-4f1167348411.cdr.xml,b22d5f15-df2e-4c10-b20b-4f1167348411,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/2e2ec8b7-a18b-4c97-a4db-dfbfe22e3796.cdr.xml,2e2ec8b7-a18b-4c97-a4db-dfbfe22e3796,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/e6450fc0-0e4c-451d-865d-cc64d154ba93.cdr.xml,e6450fc0-0e4c-451d-865d-cc64d154ba93,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/b5dc5031-ebb2-4855-a34e-993c097028ee.cdr.xml,b5dc5031-ebb2-4855-a34e-993c097028ee,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/56490137-177e-47c0-81d9-5b4fbe6031d9.cdr.xml,56490137-177e-47c0-81d9-5b4fbe6031d9,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/714dc2ef-2690-4492-a04f-43427cd78e75.cdr.xml,714dc2ef-2690-4492-a04f-43427cd78e75,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/52d1b7d5-dd3b-462f-b953-9e5bc0ec086e.cdr.xml,52d1b7d5-dd3b-462f-b953-9e5bc0ec086e,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/4a29b8d3-92bd-4f54-bba4-adf563d13d69.cdr.xml,4a29b8d3-92bd-4f54-bba4-adf563d13d69,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/18301d6a-48ae-4ce1-9d1e-63da0f3f5fcb.cdr.xml,18301d6a-48ae-4ce1-9d1e-63da0f3f5fcb,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/be0dc7d6-3457-4f3f-ae30-6760435cc67e.cdr.xml,be0dc7d6-3457-4f3f-ae30-6760435cc67e,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/f5cbe323-6a9a-418d-b87c-29622d2ebb1e.cdr.xml,f5cbe323-6a9a-418d-b87c-29622d2ebb1e,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/18b2c45e-ac39-4d1a-a8a7-c149e506fa1c.cdr.xml,18b2c45e-ac39-4d1a-a8a7-c149e506fa1c,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/3f1e5a96-0b7f-4b4c-87e4-18b6498dbead.cdr.xml,3f1e5a96-0b7f-4b4c-87e4-18b6498dbead,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/e8f234c7-4114-4204-ba1f-2ee6c5c0f62e.cdr.xml,e8f234c7-4114-4204-ba1f-2ee6c5c0f62e,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/19f55159-6bf0-49b3-b18d-cea929634c19.cdr.xml,19f55159-6bf0-49b3-b18d-cea929634c19,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/4bb849fc-0a13-4035-aafb-ff762c379533.cdr.xml,4bb849fc-0a13-4035-aafb-ff762c379533,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/af0af490-6fc6-4f26-8ed9-a9f9f9026410.cdr.xml,af0af490-6fc6-4f26-8ed9-a9f9f9026410,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/d4729306-0d82-4cf4-b5cc-0bad347f607a.cdr.xml,d4729306-0d82-4cf4-b5cc-0bad347f607a,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/966c7b99-eba5-4e80-a4fa-fba2a7a21008.cdr.xml,966c7b99-eba5-4e80-a4fa-fba2a7a21008,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/0b81c984-97cc-4bbf-855a-7febf52338a2.cdr.xml,0b81c984-97cc-4bbf-855a-7febf52338a2,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/da7440c9-984e-41b1-9ca2-a67b460ceb22.cdr.xml,da7440c9-984e-41b1-9ca2-a67b460ceb22,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/b04c87b1-6284-45a8-b517-42e87631cc51.cdr.xml,b04c87b1-6284-45a8-b517-42e87631cc51,file-read-error,"{ [Error: ENOENT, open '/home/joel/xml_cdr/b04c87b1-6284-45a8-b517-42e87631cc51.cdr.xml']
+  errno: 34,
+  code: 'ENOENT',
+  path: '/home/joel/xml_cdr/b04c87b1-6284-45a8-b517-42e87631cc51.cdr.xml' }",,
+/home/joel/xml_cdr/e1c25df2-1d5f-4efd-b95c-8c74888d24e6.cdr.xml,e1c25df2-1d5f-4efd-b95c-8c74888d24e6,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/e85f97f1-85a7-4984-8c17-4da0eb46879f.cdr.xml,e85f97f1-85a7-4984-8c17-4da0eb46879f,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/83f671d5-c014-4475-80e1-6eb16951cc39.cdr.xml,83f671d5-c014-4475-80e1-6eb16951cc39,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/585f3a9c-d632-4746-8eaf-56ce1f0631f1.cdr.xml,585f3a9c-d632-4746-8eaf-56ce1f0631f1,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/d3828fd5-7647-421f-98d5-a561274f34b5.cdr.xml,d3828fd5-7647-421f-98d5-a561274f34b5,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/7ac4d607-26bd-487d-b75b-f9700dbce40d.cdr.xml,7ac4d607-26bd-487d-b75b-f9700dbce40d,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/b04c87b1-6284-45a8-b517-42e87631cc52.cdr.xml,b04c87b1-6284-45a8-b517-42e87631cc52,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"
+/home/joel/xml_cdr/d406c7a3-82f2-4709-bb07-8addf11d6cd9.cdr.xml,d406c7a3-82f2-4709-bb07-8addf11d6cd9,success,,200,"<div style=""border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: callflow</p>
+<p>Filename: libraries/Parse_CDR_XML.php</p>
+<p>Line Number: 77</p>
+
+</div>"

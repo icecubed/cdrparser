@@ -1,0 +1,17 @@
+{
+  "name": "cdrParser",
+  "version": "1.0.0",
+  "description": "parse given cdr files and send them out to V1s POST route",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel Alenchery",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^0.1.3",
+    "csv-stringify": "0.0.8",
+    "stream-transform": "^0.1.0",
+    "superagent": "^1.2.0"
+  }
+}
